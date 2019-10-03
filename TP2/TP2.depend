@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556753428 source:c:\users\user\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+
+1556753832 c:\users\user\desktop\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556753832 c:\users\user\desktop\tp2\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556753832 source:c:\users\user\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+
+1556753435 source:c:\users\user\desktop\tp2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dib",
+				"dibujarLinea"
+			],
+			[
+				"nombre",
+				"nombremultiplo"
+			],
+			[
+				"multi",
+				"multiplo"
+			],
+			[
+				"sexo",
+				"sexomayor"
+			],
+			[
+				"se",
+				"sexovarones"
+			],
+			[
+				"nom",
+				"nombremenorvarones"
+			],
+			[
+				"masm",
+				"masmenor"
+			],
+			[
+				"mas",
+				"masmenormujeres"
+			],
+			[
+				"masmenor",
+				"masmenorvarones"
+			],
+			[
+				"masma",
+				"masmayor"
+			],
+			[
+				"masmeno",
+				"masmenorvarones"
+			],
+			[
+				"masmas",
+				"masmayorvarones"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"preciofina",
+				"preciofinal"
+			],
+			[
+				"precio",
+				"precioconiva"
+			],
+			[
+				"preci",
+				"precio3"
+			],
+			[
+				"pre",
+				"precio1"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"prec",
+				"preciocondescuento"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ista",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/LO cursito de platzi/CANVAS/dibujo.js",
+		"/C/Users/User/Desktop/LO cursito de platzi/CANVAS/dibujo.html",
+		"/C/Users/User/Desktop/LO cursito de platzi/1/document.html",
+		"/C/Users/User/Desktop/LO cursito de platzi/1/codigo.js",
+		"/C/Users/User/Desktop/document.html",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Parcial_fuentes/siete.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/siete.js",
+		"/C/Users/User/Desktop/biuui.bat",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (5).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (6).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (7).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (8).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (9).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (4).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (3).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (2).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (1).js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-10.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/8-TPs/jsFerretePinturas.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/8-TPs/jsFerreteConstruccion.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/8-TPs/jsFerreteFacturacion.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Parcial_fuentes/tres.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Parcial_fuentes/nueve.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Parcial_fuentes/dos.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Parcial_fuentes/uno.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/9-Parciales/2018_1Cuatri_Recu_fuentes/tres.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-6.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-5.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-4.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-3.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-2.js",
+		"/C/Program Files/MOMO/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-1.js",
+		"/C/Users/User/Desktop/CursoIngresoJS-master.lnk"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TP1.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
