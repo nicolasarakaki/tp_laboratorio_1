@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1573847024 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"validaciones.h"
+	"Controller.h"
+
+1573080746 c:\users\user\desktop\aplicacionpruebaparalinkedlist\linkedlist.h
+
+1573845257 c:\users\user\desktop\aplicacionpruebaparalinkedlist\employee.h
+
+1572494888 c:\users\user\desktop\aplicacionpruebaparalinkedlist\parser.h
+
+1557527840 c:\users\user\desktop\aplicacionpruebaparalinkedlist\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573845257 c:\users\user\desktop\aplicacionpruebaparalinkedlist\controller.h
+
+1573846999 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"validaciones.h"
+
+1573846942 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validaciones.h"
+
+1573842407 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1572973284 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572732752 source:c:\users\user\desktop\aplicacionpruebaparalinkedlist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
