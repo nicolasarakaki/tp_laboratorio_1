@@ -288,8 +288,7 @@ int controller_ListEmployee(LinkedList* pArrayListEmployee)
         for(i=0;i<len;i++)
         {
             empleado = (Employee*)ll_get(pArrayListEmployee, i);
-            if(empleado!=NULL)
-                printf("\n%2d%10s%12d hs%12d", (empleado)->id, (empleado)->nombre, (empleado)->horasTrabajadas, (empleado)->sueldo);
+            mostrarEmpleado(empleado);
         }
         retorno = TODOOK;
     }

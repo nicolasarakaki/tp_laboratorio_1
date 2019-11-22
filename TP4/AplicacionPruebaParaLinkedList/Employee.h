@@ -31,7 +31,7 @@ int employee_getHorasTrabajadas(Employee* this,int* horasTrabajadas);
 int employee_setSueldo(Employee* this,int sueldo);
 int employee_getSueldo(Employee* this,int* sueldo);
 
-void mostrarEmpleado(Employee* emp);
+void mostrarEmpleado(Employee* empleado);
 int ordenarXSueldo( void* emp1, void* emp2);
 int ordenarXHoras( void* emp1, void* emp2);
 int ordenarXNombre(void* emp1, void* emp2);

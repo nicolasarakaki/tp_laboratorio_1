@@ -58,3 +58,62 @@
 	<string.h>
 	"validaciones.h"
 
+1574388901 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"validaciones.h"
+	"Controller.h"
+
+1573080746 c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\linkedlist.h
+
+1574388936 c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\employee.h
+
+1572494888 c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\parser.h
+
+1557527840 c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573845257 c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\controller.h
+
+1574388979 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"validaciones.h"
+
+1573842407 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1572732752 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1574386070 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574388901 source:c:\users\user\desktop\tp4\aplicacionpruebaparalinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validaciones.h"
+

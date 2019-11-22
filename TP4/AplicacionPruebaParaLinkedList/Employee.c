@@ -160,11 +160,11 @@ Employee* employee_newParametros(char* idStr,char* nombreStr,char* horasTrabajad
     return this;
 }
 
-void mostrarEmpleado(Employee* emp)
+void mostrarEmpleado(Employee* empleado)
 {
-    if(emp != NULL)
+    if(empleado != NULL)
     {
-        printf("%d  %s  %d  %d\n", emp->id, emp->nombre, emp->horasTrabajadas, emp->sueldo);
+        printf("\n%2d%10s%12d hs%12d", (empleado)->id, (empleado)->nombre, (empleado)->horasTrabajadas, (empleado)->sueldo);
     }
 }
 
@@ -265,7 +265,12 @@ int menuConOpcion(int reintentos, int numOpcMin, int numOpcMax)
     printf(" 6. Ordenar empleados\n ");
     printf(" 7. Guardar los datos de los empleados en el archivo data2.csv (modo texto)\n ");
     printf(" 8. Borrar lista de la memoria\n ");
-    printf(" 9. Salir\n ");
+    printf(" 9. Testeo de la funcion ll_clone y ll_contains\n ");
+    printf(" 10. Testeo de la funcion ll_clone y ll_containsAll\n ");
+    printf(" 11. Testeo de la funcion ll_subList\n ");
+    printf(" 12. Testeo de la funcion ll_push\n ");
+    printf(" 13. Testeo de la funcion ll_pop\n ");
+    printf(" 14. Salir\n ");
 
     fflush(stdin);
     if(getNumInt(&auxOpcion, reintentos, numOpcMin, numOpcMax, "\n\nIngrese una opcion: ", "Opcion Incorrecta")==0)

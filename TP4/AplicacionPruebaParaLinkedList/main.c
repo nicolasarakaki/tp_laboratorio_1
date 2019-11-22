@@ -25,9 +25,14 @@ int main()
     int salir = FALSE;
     int opcion;
     LinkedList* listaEmpleados = ll_newLinkedList();
+    LinkedList* listaEmpleados2 = ll_newLinkedList();
+    LinkedList* listaEmpleados3 = ll_newLinkedList();
+    LinkedList* listaEmpleados4 = ll_newLinkedList();
+    void* pElemento;
+
     do{
         system("cls");
-        switch(menuConOpcion(3, 1, 9))
+        switch(menuConOpcion(3, 1, 14))
         {
             case 1:
                 if(ll_isEmpty(listaEmpleados)==0)
@@ -130,6 +135,52 @@ int main()
                 break;
 
             case 9:
+                listaEmpleados2 = ll_clone(listaEmpleados);
+                pElemento = ll_get(listaEmpleados, 6);
+                if(listaEmpleados2!=NULL && ll_contains(listaEmpleados2, pElemento)==1)
+                {
+                    printf("\nll_clone y ll_contains funcionan correctamente\n");
+                }
+                else
+                    printf("\nError\n");
+                break;
+
+            case 10:
+                listaEmpleados3 = ll_clone(listaEmpleados);
+                if(listaEmpleados3!=NULL && ll_containsAll(listaEmpleados, listaEmpleados3)==1)
+                {
+                    printf("\nll_clone y ll_containsAll funcionan correctamente\n");
+                }
+                break;
+
+            case 11:
+                listaEmpleados4 = ll_subList(listaEmpleados, 0, 5);
+                if(listaEmpleados4!=NULL)
+                {
+                    controller_ListEmployee(listaEmpleados4);
+                }
+                break;
+
+            case 12:
+                printf("\nSe le agrega el elemento de la posicion 10 de la SubLista a la posicion 3 de una lista nueva\n");
+
+                pElemento = ll_get(listaEmpleados, 10);
+                if(ll_push(listaEmpleados4, 3, pElemento)==TODOOK)
+                {
+                    controller_ListEmployee(listaEmpleados4);
+                }
+                break;
+
+            case 13:
+                printf("\nSe elimina el elemento de la posicion 3 de la SubLista y se imprime solamente el elemento eliminado\n");
+
+                pElemento = ll_pop(listaEmpleados4, 3);
+                printf("\nID    Nombre    Horas Trabajadas  Sueldo");
+                printf("\n--    ------    ----------------  ------");
+                mostrarEmpleado((Employee*)pElemento);
+                break;
+
+            case 14:
                 printf("\nSALIENDO....");
                 salir = TRUE;
                 break;

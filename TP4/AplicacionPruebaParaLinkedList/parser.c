@@ -13,7 +13,7 @@
  */
 int parser_EmployeeFromText(FILE* pFile , LinkedList* pArrayListEmployee)
 {
-    Employee* this = employee_new();
+    Employee* this;
     int retorno = ERROR;
 
     char buffer[4][30];
@@ -51,7 +51,6 @@ int parser_EmployeeFromText(FILE* pFile , LinkedList* pArrayListEmployee)
         }
         retorno = TODOOK;
     }
-    free(this);
     return retorno;
 }
 
